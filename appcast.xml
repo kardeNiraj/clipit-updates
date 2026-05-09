@@ -3,6 +3,18 @@
     <channel>
         <title>ClipIt</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Sun, 10 May 2026 02:40:51 +0530</pubDate>
+            <sparkle:version>202605100240</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt_1.1.zip" length="3555398" type="application/octet-stream" sparkle:edSignature="3esiEl9LJClHoKSTsMmcmfyggAdhibw+RUrOLwxQi1aFl/A2d2fGblk3ibFGCgLvlImIDOVH7h1onRX+zM8yAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605100240-1.delta" sparkle:deltaFrom="1" length="51834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ks28heTVQzkrXPiuW9Qd9Y4glGnQ5C6gKSzGITIanfxXCgsWs9P80LMerDO9c2fcL4+3RW8qtyF2gRIFJDRADg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Sun, 10 May 2026 00:37:52 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
