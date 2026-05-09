@@ -4,6 +4,30 @@
         <title>ClipIt</title>
         <item>
             <title>1.1</title>
+            <pubDate>Sun, 10 May 2026 03:21:50 +0530</pubDate>
+            <sparkle:version>202605100321</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt_1.1.zip" length="3555490" type="application/octet-stream" sparkle:edSignature="zXKr5nZsAnCNyYDN8uc/m2AJ6QGfbIFnYcs56746DN5Y/+oOpqztYxAw8hS00kqj2QjQiKCz+q4RqkI8fG3JAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605100321-1.delta" sparkle:deltaFrom="1" length="50614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GexveHiY2etibF3Q74Rrm1QnsSBXNNiPo78bP5JSHE0s6Ff6EQaHDN6Br2kkmNWzE1ta/QA6cnKbV9f6w/6kBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sun, 10 May 2026 03:18:14 +0530</pubDate>
+            <sparkle:version>202605100318</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt_1.1.zip" length="3555484" type="application/octet-stream" sparkle:edSignature="Ir6mzh5CDg6RVp52u6WBA6bd5u6P+wO06YTGdNgdtdK4N7h8RRbEZb45hIiDOoTuTPX4DnTZUIR74JknYFc9BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605100318-1.delta" sparkle:deltaFrom="1" length="50510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cHg9iBdon0HrlUREPuw3hWYWMXhRwLQhfcgBa//t2Pc5dw7MpSEpyCInyyuVd4f4og6LDr6Hc03OAL42GofeCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1</title>
             <pubDate>Sun, 10 May 2026 02:40:51 +0530</pubDate>
             <sparkle:version>202605100240</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
@@ -13,15 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605100240-1.delta" sparkle:deltaFrom="1" length="51834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ks28heTVQzkrXPiuW9Qd9Y4glGnQ5C6gKSzGITIanfxXCgsWs9P80LMerDO9c2fcL4+3RW8qtyF2gRIFJDRADg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Sun, 10 May 2026 00:37:52 +0530</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt_1.0.zip" length="3558806" type="application/octet-stream" sparkle:edSignature="MpgbHAdzYICd2KREfLaSX9B/i50z3ol4rAhf3nYUNo3NOuEMxxqLoiZ2dwp9YwEPozeK30xFQRmXaRZxLoLqDA=="/>
         </item>
     </channel>
 </rss>
