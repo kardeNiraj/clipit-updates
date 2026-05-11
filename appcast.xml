@@ -3,6 +3,20 @@
     <channel>
         <title>ClipIt</title>
         <item>
+            <title>1.3</title>
+            <pubDate>Mon, 11 May 2026 22:01:57 +0530</pubDate>
+            <sparkle:version>202605112201</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt_1.3.zip" length="4439222" type="application/octet-stream" sparkle:edSignature="xVvTSoPSYkG4XeECv+HUHe8rJLsMnaJk73QTmw8C1EjEFXMm+Vz/DNEtKr9AoqHbebAQtleTs2vpzd5Fz4j7CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605112201-202605112157.delta" sparkle:deltaFrom="202605112157" length="2090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ip6OOngZ6wT9uKXCK7LFZsSfmhNFLh/3Z8o37lUAy7rTOIRG9di0GAb1eIREri4tZrtVzViDwEvpgiflqax1Bg=="/>
+                <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605112201-202605100321.delta" sparkle:deltaFrom="202605100321" length="1458546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zwcS6faRcoc4eMRSfv1YV/PjHkaK74GC/s5NYNRkZMm4KCCg3YtkWs4z8MQkX1mrwbFGya1hgYRrVihzRlP8BA=="/>
+                <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605112201-1.delta" sparkle:deltaFrom="1" length="1479970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EZzGPiryknr3xjt5JbLKPg+GGoggvXG9JIJbT1zJIYrPKdYJ5X3D2V7PmA5XjhAr6NeC8O/1ZSDQ1ICD66tlBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Mon, 11 May 2026 21:57:33 +0530</pubDate>
             <sparkle:version>202605112157</sparkle:version>
@@ -26,18 +40,6 @@
             <sparkle:deltas>
                 <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605110043-202605100321.delta" sparkle:deltaFrom="202605100321" length="1430274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HWjlVJq9DsKcbiqIm17dsYiLaQ0tBB99vm254vlEDACwdBpomhSpneFla/FgIPLtxfClJ8ouEY0noanKX+VzBg=="/>
                 <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605110043-1.delta" sparkle:deltaFrom="1" length="1470426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="u9NfpfR4E4lPaUiX4kxZTd5KOWhbV5PTyLSOk1s6F1D2MQyxL3xz7Y2gNT+uZN+FQy3NXdviG3WGHdI1+YaQBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Sun, 10 May 2026 03:21:50 +0530</pubDate>
-            <sparkle:version>202605100321</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt_1.1.zip" length="3555490" type="application/octet-stream" sparkle:edSignature="zXKr5nZsAnCNyYDN8uc/m2AJ6QGfbIFnYcs56746DN5Y/+oOpqztYxAw8hS00kqj2QjQiKCz+q4RqkI8fG3JAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://kardeNiraj.github.io/clipit-updates/ClipIt202605100321-1.delta" sparkle:deltaFrom="1" length="50614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GexveHiY2etibF3Q74Rrm1QnsSBXNNiPo78bP5JSHE0s6Ff6EQaHDN6Br2kkmNWzE1ta/QA6cnKbV9f6w/6kBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
